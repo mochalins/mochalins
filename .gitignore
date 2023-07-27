@@ -1,0 +1,7 @@
+**/**
+!*/
+
+# Whitelist
+!.gitignore
+!README.md
+!s.zip
