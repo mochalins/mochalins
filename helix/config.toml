@@ -1,0 +1,13 @@
+theme = "autumn"
+
+[editor]
+rulers = [80, 100, 120]
+
+[editor.whitespace]
+render = "all"
+
+[editor.indent-guides]
+render = true
+
+[editor.soft-wrap]
+enable = true
