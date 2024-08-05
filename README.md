@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 Software engineer primarily focused on embedded motor control systems.
 
