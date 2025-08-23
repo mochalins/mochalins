@@ -9,3 +9,9 @@ command = "ruff-lsp"
 name = "python"
 language-servers = [ "ruff" ]
 auto-format = true
+
+[[language]]
+name = "protobuf"
+formatter = { command = "clang-format" }
+file-types = ["proto"]
+auto-format = true
